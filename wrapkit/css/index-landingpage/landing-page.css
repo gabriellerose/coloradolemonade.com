@@ -55,12 +55,15 @@ Header 1
     margin: 0 20px; }
     .h1-nav .navbar-nav .nav-item .nav-link {
       padding: 12px 0px;
-      color: #8d97ad;
+      color: #90C158;
       font-weight: 400; }
       .h1-nav .navbar-nav .nav-item .nav-link:hover {
-        color: #2cdd9b; }
+        color: #F19248; }
     .h1-nav .navbar-nav .nav-item:last-child {
       margin-right: 0px; }
+.h1-nav .navbar-nav .active {
+  color: #F19248 !important;
+}
 
 /*******************
 Header 2
